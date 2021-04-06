@@ -1,1 +1,1 @@
-# Collect-treasure
+Collect treasure
